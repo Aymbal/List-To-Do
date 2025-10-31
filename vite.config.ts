@@ -9,5 +9,6 @@ export default defineConfig({
     tailwindcss()
     
   ],
+  base:"/To-Do-List-Updated",
 })
  
