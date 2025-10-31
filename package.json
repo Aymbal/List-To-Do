@@ -1,6 +1,6 @@
 {
   "name": "project-to-do-list",
-  "homepage": "https://aymbal.github.io/To-Do-List-Updated",
+  "homepage": "https://aymbal.github.io/List-To-Do",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy" :"npm run build",
-    "deploy" :"gh-pages -d dist" 
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.16",
