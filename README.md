@@ -38,10 +38,10 @@ The goal of this project was to:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Aymbal/todo-list-react.git
+git clone https://github.com/Aymbal/List-To-Do.git
 
 # Navigate into the project folder
-cd todo-list-react
+cd List-To-Do
 
 # Install dependencies
 npm install
